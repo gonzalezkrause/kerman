@@ -1,0 +1,49 @@
+=>sub
+
+:init
+a = 40
+b = 2
+
+:run
+a - b
+
+:out
+print
+
+
+
+
+
+// comment 1
+//      Foo
+//		Bar
+//      baz
+=>mul
+
+:init
+a = 40
+b = 2
+
+:run
+a * b
+
+:out
+print
+
+
+
+
+
+
+
+=>div
+
+:init
+a = 40
+b = 2
+
+:run
+a / b
+
+:out
+print

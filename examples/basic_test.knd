@@ -1,0 +1,32 @@
+// Author JK
+=>sum
+
+:init
+a = 40
+b = 2
+
+// Just the run subroutine
+:run
+a + b
+print
+
+a - b
+print
+
+c = a + b
+r = c + 12.8
+
+ca1 = (2 * PI) * r
+ca2 = 2 * PI * r
+
+foo = cos(ca2)
+
+/* 
+ * Multi
+ * line
+ * comment
+ */
+:out
+print ca1
+print ca2
+print foo
